@@ -130,3 +130,9 @@ dmypy.json
 
 # vscode
 .vscode
+
+# Mac
+.DS_Store
+
+# R files
+.Rhistory
