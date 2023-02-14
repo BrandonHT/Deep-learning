@@ -1,5 +1,5 @@
 ---
-title: "DL_02_Regularizers"
+title: "DL_04_Regularizers"
 author: "Brandon Francisco Hernández Troncoso"
 output: 
     pdf_document: default
