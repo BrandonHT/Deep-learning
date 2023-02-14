@@ -136,3 +136,6 @@ dmypy.json
 
 # R files
 .Rhistory
+
+# csv files
+.csv
